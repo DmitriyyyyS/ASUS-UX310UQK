@@ -9,4 +9,5 @@ Bios type: AMI 311 04/18/2019
 Graphics card: 	Intel HD Graphics 620 0x5916
                 NVIDIA GTX1050 OFF
 Network by the way BCM94360CS2
-Everything works, sound, graph, display backlight, keyboard backlight, sensors, graphics, network,
+Everything works, sound, graph, display backlight, keyboard backlight, sensors, graphics, network.
+It was tested on versions 10.14.6 and 10.15.3
